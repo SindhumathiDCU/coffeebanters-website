@@ -45,7 +45,7 @@ html {
 .banner{
   height: 100vh;
 
-  background-image: url("img/coffee_shop_720_1280.jpg");
+  background-image: url("coffee_shop_720_1280.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
